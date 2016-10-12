@@ -1,2 +1,2 @@
 # DEMO LINK #
-[build unique visitors counter with codeigniter](http://webeasystep.com/blog/view_article/how_to_build_unique_visitors_counter_with_codeigniter)
+[Build multi language website in codeigniter](http://webeasystep.com/blog/view_article/Build_multi_language_website_in_codeigniter)
