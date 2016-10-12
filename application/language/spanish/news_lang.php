@@ -1,0 +1,1 @@
+<?php // labels// labels$Lang['ne_title'] = 'Noticias Título';$Lang['ne_desc'] = 'Noticias Descripción';$Lang['ne_img'] = 'Archivo de imagen';$Lang['Demo'] = 'Demo Idiomas prueba!';$Lang['lang']= 'idioma';$Lang['language'] = 'idioma';$Lang['languages'] ='idiomas';
